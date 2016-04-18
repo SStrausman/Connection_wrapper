@@ -4,7 +4,7 @@
 Connection Wrapper is a simple API wrapper written for a hypothetical API. It can easily be modified and used to work with any existing get only API. 
 
 ###Initial Dependancies.
-Library is written in ruby 2.2.2. You must also have bundler installed previously to running the code.
+Library is written in ruby 2.2.2. You must also have bundler installed previously to run the code.
 Other dependencies are handled by bundler. 
 
 ###Running The App
